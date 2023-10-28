@@ -1,3 +1,7 @@
+Developing a Pathfinding Visualization Tool using JavaScript and React Framework. The following program is in reference to Clement Mihailescu's Pathfinding Visualizer Tutorial.
+
+Link to Reference: https://www.youtube.com/watch?v=msttfIHHkak
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
